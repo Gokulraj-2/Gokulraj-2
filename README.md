@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Gokul ✌️
 
 <!--
-**Gokulraj-2/Gokulraj-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gokulraj-2** is a ✨✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
